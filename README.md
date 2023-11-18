@@ -25,7 +25,7 @@ To install and run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Olanetsoft/devfest-lagos-interchain-dapp-workshop.git
+   git clone https://github.com/axelarnetwork/devfest-lagos-interchain-dapp-workshop.git
    ```
 
 2. Navigate to the project directory:
