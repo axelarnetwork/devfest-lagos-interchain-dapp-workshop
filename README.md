@@ -1,4 +1,4 @@
-# **Fullstack Interchain dApp**
+# **Devfest Lagos Fullstack Interchain Dapp Workshop**
 
 This project is a full-stack decentralized application (dApp) built with React/Nextjs, Solidity, and Axelar General Message Passing. It enables users to send messages between two blockchain chains.
 
