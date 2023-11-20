@@ -31,7 +31,7 @@ To install and run this application locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd fullstack-interchain-dapp
+   cd devfest-lagos-interchain-dapp-workshop
    ```
 
 3. Install the dependencies:
